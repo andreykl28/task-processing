@@ -1,0 +1,4 @@
+[
+  {"id": "file-1", "payload": {"type": "email", "to": "user@example.com"}},
+  {"id": "file-2", "payload": {"type": "report", "period": "2026-03"}}
+]
